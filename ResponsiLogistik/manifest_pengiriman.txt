@@ -1,0 +1,9 @@
+=== DOKUMEN MANIFES PENGIRIMAN 3T ===
+Total Barang         : 3 item
+Total Berat Muatan   : 60.0 kg
+Armada yang Digunakan: Truk Ekspedisi
+--------------------------------------------------
+Detail Muatan:
+- [EDX-001] laptop Acer (Elektronik) : 15.00 kg
+- [EDX-002] Komputer (Elektronik) : 20.00 kg
+- [EDX-003] Server Lokal (Elektronik) : 25.00 kg
